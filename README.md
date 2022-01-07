@@ -6,7 +6,7 @@ Creating my portfolio
 2) created my css.file.
 
 Screen shout 
-![Wafa Portfillio](.images/WafaPortfilio.png)
+![Wafa Portfillio](images/WafaPortfilio.png)
 
 
 
