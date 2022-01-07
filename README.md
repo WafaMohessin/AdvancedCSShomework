@@ -7,7 +7,8 @@ Creating my portfolio
 3) iserted a screenshot in the README.md 
 
 Screen shout 
-![Wafa Portfillio](./Portfolio/images/WafaPortfilio.png)
+![Wafa Portfillio](professionalPortfolio/images/WafaPortfilio.png)
+
 
 
 
