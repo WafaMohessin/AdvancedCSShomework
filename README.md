@@ -6,7 +6,8 @@ Creating my portfolio
 2) created my css.file.
 
 Screen shout 
-<imge src= "./image/WafaPortfilio"> 
+![Wafa Portfillio](./images/WafaPortfilio.png)
+
 
 
 
